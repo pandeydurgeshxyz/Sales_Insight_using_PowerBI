@@ -1,7 +1,7 @@
 <h1>Sales Insight using PowerBI</h1>
 
 <h2>Table1-Sales Customer</h2>
-![image](https://github.com/pandeydurgeshxyz/Sales_Insight_using_PowerBI/assets/98370352/4120744f-8581-40b5-90a8-e469bc891ddd.jpg)
+![image](https://github.com/pandeydurgeshxyz/Sales_Insight_using_PowerBI/assets/98370352/4120744f-8581-40b5-90a8-e469bc891ddd)
 
 <h2>Table2-Sales Dates</h2>
 ![image](https://github.com/pandeydurgeshxyz/Sales_Insight_using_PowerBI/assets/98370352/45b2fceb-09ea-442f-9749-17974a3b44d3)
