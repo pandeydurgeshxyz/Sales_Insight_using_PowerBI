@@ -17,6 +17,8 @@
 
 <h1>Analysis of Sales Dashboard</h1>
 ![image](https://github.com/pandeydurgeshxyz/Sales_Insight_using_PowerBI/assets/98370352/4bb7fece-9675-400e-9b1c-8c18f07832be)
+![image](https://github.com/pandeydurgeshxyz/Sales_Insight_using_PowerBI/assets/98370352/bb6b469c-057e-4566-94af-91b39106f3be)
+
 
 
 
